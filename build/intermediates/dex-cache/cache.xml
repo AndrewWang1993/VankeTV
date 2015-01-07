@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="H:\AndroidStudio_1.0WS\VankeMediaPlayer\app\libs\Baidu_CyberPlayer_SDK_1.7s.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="412f0f2ebc711540ef966d931418e8320783146c">
+        <dex dex="H:\AndroidStudio_1.0WS\VankeMediaPlayer\app\build\intermediates\pre-dexed\debug\Baidu_CyberPlayer_SDK_1.7s-2a236d424832719c165e826f4f2187103d2cafb5.jar" />
+    </item>
+    <item
+        jar="D:\SoftWare\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="H:\AndroidStudio_1.0WS\VankeMediaPlayer\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-09a4d0de4ee59a11faa06b11e65bfb04b3047f74.jar" />
+    </item>
+
+</items>

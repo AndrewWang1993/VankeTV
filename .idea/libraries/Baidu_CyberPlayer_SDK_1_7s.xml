@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Baidu_CyberPlayer_SDK_1.7s">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/Baidu_CyberPlayer_SDK_1.7s.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
